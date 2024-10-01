@@ -1,0 +1,16 @@
+{
+  "name": "trainedmodelcomparisonexperiment",
+  "version": "1.0.0",
+  "description": "卒研の中間発表で行う、学習済みモデルの比較実験を適切に行う",
+  "main": "TFhelper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.21.0",
+    "glob": "^11.0.0"
+  }
+}
